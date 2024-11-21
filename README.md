@@ -25,15 +25,6 @@ This project implements a payment processing system that supports multiple payme
 - Abstract Base Classes for payment methods
 - In-memory storage for transaction logs
 
-## Project Structure
-payment-processing-system/
-│
-├── main.py # Main program to execute the payment processing system
-├── payment_methods.py # Contains classes for different payment methods
-├── discounts.py # Contains classes for discount strategies and currency conversion
-├── database.py # Contains the in-memory database logic for logging transactions
-├── README.md # Project documentation
-└── requirements.txt # (Optional) Python dependencies if needed
 
 ## How It Works
 
